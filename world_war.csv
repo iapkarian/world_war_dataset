@@ -1,6 +1,31 @@
-Name,Year,Assaulter,Defender,Assaulter_1,Defender_1,Assaulter_strength,Defender_strength,Outcome
-Baltic Operation,1941,Nazi Germany,Soviet Union,,,787500,498000,win
-Battle of Bialystok–Minsk,1941,Nazi Germany,Soviet Union,,,750000,675000,win
-Battle of Brody,1941,Nazi Germany,Soviet Union,,,750,3500,win
-Battle of Hanko,1941,Finland,Soviet Union,Finland,,25300,30000,loss
-Demyansk Pocket,1942,Soviet Union,Nazi Germany,,,130000,400000,loss
+Name,Year,Location,Assaulter,Defender,Assaulter_1,Assaulter_2,Defender_1,As_strength_men,Def_strength_men,As_strength_guns,Def_strength_guns,Assaulter_losses,Defender_losses,Outcome
+Battle of Mons,1914,"Mons, Belgium",German Empire,British Empire,,,,160000,80000,600,300,5000,1638,win
+Battle of Liege,1914,"Liege, Belgium",German Empire,Belgium,,,,59800,36000,400,280,25000,15000,win
+Battle of the Frontiers,1914,"Lorraine, the Ardennes and Belgium",Belgium,German Empire,France,British Empire,,1504000,1600000,4640,5000,165000,264680,loss
+Togoland Campaign,1914,German Togoland,British Empire,German Empire,France,,,1100,693,,,137,41,win
+Battle of Cer,1914,Cer Mountain,Austria-Hungary,Serbia,,,,200000,180000,,,18500,4785,loss
+Battle of Tannenberg,1914,"Allenstein, East Prussia",Russian Empire,German Empire,,,,230000,150000,,,170000,13873,loss
+First Battle of the Marne,1914,"Marne River, Paris",France,German Empire,British Empire,,,1071000,1485000,,,263000,256000,win
+Battle of Drina,1914,Drina River,Austria-Hungary,Serbia,,,,,,,,,,loss
+First Battle of Ypres,1914,"Ypres, Belgium",France,German Empire,Belgium,British Empire,,4400000,5400000,,,58155,46765,indecisive
+Siege of Tsingtao,1914,"Tsingtau, Germany",British Empire,German Empire,Empire of Japan,,Austria-Hungary,24500,3750,142,,3000,700,win
+Battle of Kilimanjaro,1914,"Kilimanjaro, German East Africa",German Empire,British Empire,,,,686,1500,,,109,312,win
+Battle of Tanga,1914,"Tanga, German East Africa",British Empire,German Empire,India,,,8000,1000,,,995,147,loss
+Battle of Kolubara,1914,"Kolubara River, Kingdom of Serbia",Serbia,Austria-Hungary,,,,400000,450000,,,132000,273000,win
+Battle of Limanowa,1914,Galicia Carpathian Mountains,German Empire,Russian Empire,Austria-Hungary,,,90000,125000,,,12000,30000,win
+Battle of the Falkland Islands,1914,South Atlantic,British Empire,German Empire,,,,,,8,8,29,2110,win
+First Battle of Champagne,1914,"Champagne-Ardenne, France",France,German Empire,,,,,,,,93432,46100,indecisive
+Battle of Jassin,1915,"Jassin, German East Africa",German Empire,British Empire,,,,1594,1100,27,,,,win
+Second Battle of the Masurian Lakes,1915,"East Prussia, Germany ",German Empire,Russian Empire,,,,100000,220000,,,16200,200000,win
+Battle of Neuve Chapelle,1915,"Artois region, France",British Empire,German Empire,India,,,,,4,2,11200,10000,win
+Second Battle of Ypres,1915,"Ypres, Belgium",France,German Empire,Belgium,British Empire,,,,7,8,84223,35000,win
+Landing at Cape Helles,1915,"Cape Helles, Gallipoli, Adrianople Vilayet, Ottoman Empire",British Empire,Ottoman Empire,France,,,,,12,2,6500,,loss
+First Battle of Krithia,1915,"Helles, Gallipoli, Adrianople Vilayet, Ottoman Empire",British Empire,Ottoman Empire,France,,,13500,,19,9,3001,2378,loss
+Second Battle of Krithia,1915,"Helles, Gallipoli, Adrianople Vilayet, Ottoman Empire",British Empire,Ottoman Empire,France,Australia,,25000,20000,72,,6300,,loss
+Battle of Festubert,1915,"South of Neuve Chapelle, France",British Empire,German Empire,Canada,India,Bavaria,,,6,3,16648,5000,loss
+Third Battle of Krithia,1915,"Helles, Gallipoli, Adrianople Vilayet, Ottoman Empire",British Empire,Ottoman Empire,India,France,,30000,19000,,,7500,9000,loss
+First Battle of the Isonzo,1915,So?a river,Kingdom of Italy,Austria-Hungary,,,,225000,115000,,,14947,9950,loss
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Battle of Passchendaele,1917," Passendale, Belgium",France,German Empire,Belgium,British Empire,,,,,,508800,348300,loss
