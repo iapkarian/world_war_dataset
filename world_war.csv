@@ -1,39 +1,107 @@
-Name,Year,Location,Assaulter,Defender,Assaulter_1,Assaulter_2,Defender_1,As_strength_men,Def_strength_men,As_strength_guns,Def_strength_guns,Assaulter_losses,Defender_losses,Outcome
-Battle of Mons,1914,"Mons, Belgium",German Empire,British Empire,,,,"160,000","80,000",600,300,"5,000","1,638",win
-Battle of Liege,1914,"Liege, Belgium",German Empire,Belgium,,,,"59,800","36,000",400,280,"25,000","15,000",win
-Battle of the Frontiers,1914,"Lorraine, the Ardennes and Belgium",Belgium,German Empire,France,British Empire,,"1,504,000","1,600,000","4,640","5,000","165,000","264,680",loss
-Togoland Campaign,1914,German Togoland,British Empire,German Empire,France,,,"1,100",693,,,137,41,win
-Battle of Cer,1914,Cer Mountain,Austria-Hungary,Serbia,,,,"200,000","180,000",,,"18,500","4,785",loss
-Battle of Tannenberg,1914,"Allenstein, East Prussia",Russian Empire,German Empire,,,,"230,000","150,000",,,"170,000","13,873",loss
-First Battle of the Marne,1914,"Marne River, Paris",France,German Empire,British Empire,,,"1,071,000","1,485,000",,,"263,000","256,000",win
-Battle of Drina,1914,Drina River,Austria-Hungary,Serbia,,,,,,,,,,loss
-First Battle of Ypres,1914,"Ypres, Belgium",France,German Empire,Belgium,British Empire,,"4,400,000","5,400,000",,,"58,155","46,765",indecisive
-Siege of Tsingtao,1914,"Tsingtau, Germany",British Empire,German Empire,Empire of Japan,,Austria-Hungary,"24,500","3,750",142,,"3,000",700,win
-Battle of Kilimanjaro,1914,"Kilimanjaro, German East Africa",German Empire,British Empire,,,,686,"1,500",,,109,312,win
-Battle of Tanga,1914,"Tanga, German East Africa",British Empire,German Empire,India,,,"8,000","1,000",,,995,147,loss
-Battle of Kolubara,1914,"Kolubara River, Kingdom of Serbia",Serbia,Austria-Hungary,,,,"400,000","450,000",,,"132,000","273,000",win
-Battle of Limanowa,1914,Galicia Carpathian Mountains,German Empire,Russian Empire,Austria-Hungary,,,"90,000","125,000",,,"12,000","30,000",win
-Battle of the Falkland Islands,1914,South Atlantic,British Empire,German Empire,,,,,,8,8,29,"2,110",win
-First Battle of Champagne,1914,"Champagne-Ardenne, France",France,German Empire,,,,,,,,"93,432","46,100",indecisive
-Battle of Jassin,1915,"Jassin, German East Africa",German Empire,British Empire,,,,"1,594","1,100",27,,,,win
-Second Battle of the Masurian Lakes,1915,"East Prussia, Germany ",German Empire,Russian Empire,,,,"100,000","220,000",,,"16,200","200,000",win
-Battle of Neuve Chapelle,1915,"Artois region, France",British Empire,German Empire,India,,,,,4,2,"11,200","10,000",win
-Second Battle of Ypres,1915,"Ypres, Belgium",France,German Empire,Belgium,British Empire,,,,7,8,"84,223","35,000",win
-Landing at Cape Helles,1915,"Cape Helles, Gallipoli, Adrianople Vilayet, Ottoman Empire",British Empire,Ottoman Empire,France,,,,,12,2,"6,500",,loss
-First Battle of Krithia,1915,"Helles, Gallipoli, Adrianople Vilayet, Ottoman Empire",British Empire,Ottoman Empire,France,,,"13,500",,19,9,"3,001","2,378",loss
-Second Battle of Krithia,1915,"Helles, Gallipoli, Adrianople Vilayet, Ottoman Empire",British Empire,Ottoman Empire,France,Australia,,"25,000","20,000",72,,"6,300",,loss
-Battle of Festubert,1915,"South of Neuve Chapelle, France",British Empire,German Empire,Canada,India,Bavaria,,,6,3,"16,648","5,000",loss
-Third Battle of Krithia,1915,"Helles, Gallipoli, Adrianople Vilayet, Ottoman Empire",British Empire,Ottoman Empire,India,France,,"30,000","19,000",,,"7,500","9,000",loss
-First Battle of the Isonzo,1915,Soca river,Kingdom of Italy,Austria-Hungary,,,,"225,000","115,000",,,"14,947","9,950",loss
-Battle of Gully Ravine,1915,Cape Helles,British Empire,Ottoman Empire,,,,,"13,000",,,"3,800","6,000",win
-Second Battle of the Isonzo,1915,Soca river,Kingdom of Italy,Austria-Hungary,,,,"250,000","78,000",,,"41,800","46,600",win
-Battle of Lone Pine,1915,"Gallipoli, Ottoman Empire",Australia,Ottoman Empire,,,,,,3,5,"2,277","6,000",win
-Battle of Loos,1915,"Loos, France",British Empire,German Empire,India,,,,,6,3,"59,247","26,000",loss
-Second Battle of Champagne,1915,"Champagne, France",France,German Empire,,,,"450,000","220,000",,,"145,000","72,500",loss
-Battle of Es Sinn,1915,Mesopotamia,British Empire,Ottoman Empire,India,,,,"10,500",,13,"1,233","5,300",win
-Morava Offensive,1915,"Negotin, Serbia",Bulgaria,Serbia,,,,"312,189","90,000",530,342,"13,468","6,000",win
-Ovce Pole Offensive,1915,"Berovo, Macedonia",Bulgaria,Serbia,,,,"153,572","41,250",234,111,,,win
-Third Battle of the Isonzo,1915,Soca river,Kingdom of Italy,Austria-Hungary,,,,,,,,"67,100","40,400",loss
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-Battle of Passchendaele,1917," Passendale, Belgium",France,German Empire,Belgium,British Empire,,,,,,"508,800","348,300",loss
+Name,Year,Location,Assaulter,Defender,Assaulter_1,Assaulter_2,Defender_1,Defender_2,As_strength_men,Def_strength_men,As_strength_guns,Def_strength_guns,Assaulter_losses,Defender_losses,Outcome
+Battle of Mons,1914,"Mons, Belgium",German Empire,British Empire,,,,,160000,80000,600,300,5000,1638,win
+Battle of Liege,1914,"Liege, Belgium",German Empire,Belgium,,,,,59800,36000,400,280,25000,15000,win
+Battle of the Frontiers,1914,"Lorraine, the Ardennes and Belgium",Belgium,German Empire,France,British Empire,,,1504000,1600000,4640,5000,165000,264680,loss
+Togoland Campaign,1914,German Togoland,British Empire,German Empire,France,,,,1100,693,,,137,41,win
+Battle of Cer,1914,Cer Mountain,Austria-Hungary,Serbia,,,,,200000,180000,,,18500,4785,loss
+Battle of Tannenberg,1914,"Allenstein, East Prussia",Russian Empire,German Empire,,,,,230000,150000,,,170000,13873,loss
+First Battle of the Marne,1914,"Marne River, Paris",France,German Empire,British Empire,,,,1071000,1485000,,,263000,256000,win
+Battle of Drina,1914,Drina River,Austria-Hungary,Serbia,,,,,,,,,,,loss
+First Battle of Ypres,1914,"Ypres, Belgium",France,German Empire,Belgium,British Empire,,,4400000,5400000,,,58155,46765,indecisive
+Siege of Tsingtao,1914,"Tsingtau, Germany",British Empire,German Empire,Empire of Japan,,Austria-Hungary,,24500,3750,142,,3000,700,win
+Battle of Kilimanjaro,1914,"Kilimanjaro, German East Africa",German Empire,British Empire,,,,,686,1500,,,109,312,win
+Battle of Tanga,1914,"Tanga, German East Africa",British Empire,German Empire,India,,,,8000,1000,,,995,147,loss
+Battle of Kolubara,1914,"Kolubara River, Kingdom of Serbia",Serbia,Austria-Hungary,,,,,400000,450000,,,132000,273000,win
+Battle of Limanowa,1914,Galicia Carpathian Mountains,German Empire,Russian Empire,Austria-Hungary,,,,90000,125000,,,12000,30000,win
+Battle of the Falkland Islands,1914,South Atlantic,British Empire,German Empire,,,,,,,8,8,29,2110,win
+First Battle of Champagne,1914,"Champagne-Ardenne, France",France,German Empire,,,,,,,,,93432,46100,indecisive
+Battle of Jassin,1915,"Jassin, German East Africa",German Empire,British Empire,,,,,1594,1100,27,,,,win
+Second Battle of the Masurian Lakes,1915,"East Prussia, Germany ",German Empire,Russian Empire,,,,,100000,220000,,,16200,200000,win
+Battle of Neuve Chapelle,1915,"Artois region, France",British Empire,German Empire,India,,,,,,4,2,11200,10000,win
+Second Battle of Ypres,1915,"Ypres, Belgium",France,German Empire,Belgium,British Empire,,,,,7,8,84223,35000,win
+Landing at Cape Helles,1915,"Cape Helles, Gallipoli, Adrianople Vilayet, Ottoman Empire",British Empire,Ottoman Empire,France,,,,,,12,2,6500,,loss
+First Battle of Krithia,1915,"Helles, Gallipoli, Adrianople Vilayet, Ottoman Empire",British Empire,Ottoman Empire,France,,,,13500,,19,9,3001,2378,loss
+Second Battle of Krithia,1915,"Helles, Gallipoli, Adrianople Vilayet, Ottoman Empire",British Empire,Ottoman Empire,France,Australia,,,25000,20000,72,,6300,,loss
+Battle of Festubert,1915,"South of Neuve Chapelle, France",British Empire,German Empire,Canada,India,Bavaria,,,,6,3,16648,5000,loss
+Third Battle of Krithia,1915,"Helles, Gallipoli, Adrianople Vilayet, Ottoman Empire",British Empire,Ottoman Empire,India,France,,,30000,19000,,,7500,9000,loss
+First Battle of the Isonzo,1915,Soca river,Kingdom of Italy,Austria-Hungary,,,,,225000,115000,,,14947,9950,loss
+Battle of Gully Ravine,1915,Cape Helles,British Empire,Ottoman Empire,,,,,,13000,,,3800,6000,win
+Second Battle of the Isonzo,1915,Soca river,Kingdom of Italy,Austria-Hungary,,,,,250000,78000,,,41800,46600,win
+Battle of Lone Pine,1915,"Gallipoli, Ottoman Empire",Australia,Ottoman Empire,,,,,,,3,5,2277,6000,win
+Battle of Loos,1915,"Loos, France",British Empire,German Empire,India,,,,,,6,3,59247,26000,loss
+Second Battle of Champagne,1915,"Champagne, France",France,German Empire,,,,,450000,220000,,,145000,72500,loss
+Battle of Es Sinn,1915,Mesopotamia,British Empire,Ottoman Empire,India,,,,,10500,,13,1233,5300,win
+Morava Offensive,1915,"Negotin, Serbia",Bulgaria,Serbia,,,,,312189,90000,530,342,13468,6000,win
+Ovce Pole Offensive,1915,"Berovo, Macedonia",Bulgaria,Serbia,,,,,153572,41250,234,111,,,win
+Third Battle of the Isonzo,1915,Soca river,Kingdom of Italy,Austria-Hungary,,,,,,,,,67100,40400,loss
+Fourth Battle of the Isonzo,1915,Soca river,Kingdom of Italy,Austria-Hungary,,,,,,,1374,626,49500,32100,loss
+Kosovo Offensive,1915,"Kosovo, Serbia",Bulgaria,Serbia,German Empire,Austria-Hungary,,,156000,150000,,,,30000,win
+Battle of Ctesiphon,1915,Ctesiphon,British Empire,Ottoman Empire,,,,,11000,18000,2,52,4600,6200,loss
+Siege of Kut,1915,"Kut-al-Amara, Mesopotamia ",British Empire,Ottoman Empire,,,,,31000,38000,,,30000,10000,loss
+Montenegrin Campaign,1916,Montenegro,Austria-Hungary,Montenegro,,,,,100000,35000,,,,,win
+Battle of Mojkovac,1916,Mojkovac,Montenegro,Austria-Hungary,,,,,6500,20000,,,2500,,win
+Battle of Sheikh Sa'ad,1916,Mesopotamia,British Empire,Ottoman Empire,India,,,,13330,9000,,,4262,1200,win
+Battle of Koprukoy,1916,Erzurum,Russian Empire,Ottoman Empire,,,,,75000,65000,,,12000,20000,win
+Battle of Wadi,1916,"Hanna defile, Mesopotamia",British Empire,Ottoman Empire,India,,,,19000,22500,,,1600,527,loss
+Battle of Hanna,1916,"Hanna defile, Mesopotamia",British Empire,Ottoman Empire,,,,,10000,30000,,,2741,503,loss
+Battle of Verdun,1916,"Verdun-sur-Meuse, France",France,German Empire,,,,,1140000,1250000,,,542000,434000,win
+Battle of Dujaila,1916,South of Kut,British Empire,Ottoman Empire,,,,,18891,8500,68,32,3500,1290,loss
+Fifth Battle of the Isonzo,1916,Soca rive,Kingdom of Italy,Austria-Hungary,,,,,,,1360,470,1882,1985,indecisive
+Lake Naroch Offensive,1916,"Lake Narach, Russian Empire",German Empire,Russian Empire,,,,,81975,372932,720,887,60000,186409,win
+Siege of Kut,1916,"Kut-al-Amara, Mesopotamia ",British Empire,Ottoman Empire,,,,,31000,41000,,,30000,10000,loss
+Battle of Asiago,1916,"Veneto, Italy",Kingdom of Italy,Austria-Hungary,,,,,,,850,2000,140000,100000,win
+Battle of Jutland,1916,"North Sea, near Denmark",British Empire,German Empire,,,,,,,,,6094,2551,indecisive
+Battle of the Somme,1916,"Somme River, France",France,German Empire,British Empire,,,,,,,,620000,600000,indecisive
+Battle of Bazentin Ridge,1916,"Somme, Picardy, France",British Empire,German Empire,,,,,,,,,9194,3500,win
+Battle of Delville Wood,1916,"Delville Wood, France",British Empire,German Empire,,,,,,,,,,,win
+Battle of Fromelles,1916,"Fromelles, Nord, France",German Empire,British Empire,,,,,30000,15000,,,2000,7080,win
+Battle of Pozieres,1916,"Pozieres, Somme, France",British Empire,German Empire,Australia,,,,,,,,,,win
+Battle of Romani,1916,"Sinai peninsula, Egypt",British Empire,German Empire,Australia,,Ottoman Empire,Austria-Hungary,14000,16000,,,1130,9200,win
+Sixth Battle of the Isonzo,1916,"Gorizia, Italy; Opatje selo, Slovenia",Kingdom of Italy,Austria-Hungary,,,,,,,,,51000,41835,win
+Battle of Guillemont,1916,"Guillemont, France",British Empire,German Empire,France,,,,,,,,,,win
+Seventh Battle of the Isonzo,1916,"Gorizia, Italy; Opatje selo, Slovenia",Kingdom of Italy,Austria-Hungary,,,,,,,,,17000,15000,indecisive
+Battle of Flers–Courcelette,1916,"Flers and Courcelette, France",France,,New Zealand,British Empire,,,,,,,29376,130000,win
+Eighth Battle of the Isonzo,1916,"Monfalcone, Italy",Kingdom of Italy,Austria-Hungary,,,,,,,,,25000,25000,indecisive
+Ninth Battle of the Isonzo,1916,Soca valley,Kingdom of Italy,Austria-Hungary,,,,,,,1390,990,39000,33000,win
+Second Battle of Kut,1916,"Kut, Mesopotamia",British Empire,Ottoman Empire,India,,,,50000,17000,,,1000,3000,win
+Samarrah Offensive,1917,North of Baghdad,British Empire,Ottoman Empire,India,,,,45000,25000,,,18000,15000,win
+First Battle of Gaza,1917,"Gaza, southern Palestine",British Empire,Ottoman Empire,,,German Empire,Austria-Hungary,,,,,523,316,loss
+Battle of Arras,1917,"Arras, France",British Empire,German Empire,Canada,Australia,,,,,23,17,158000,125000,win
+Battle of Doiran,1917,Lake Dojran,Bulgaria,British Empire,,,,,30000,43000,312,710,2000,12000,win
+Tenth Battle of the Isonzo,1917,Soca valley,Kingdom of Italy,Austria-Hungary,,,,,400000,200000,,,150000,75000,win
+Battle of Messines,1917,"Flanders, Belgium",British Empire,German Empire,Canada,Australia,,,216000,126000,,,24562,35000,win
+Battle of Passchendaele,1917,"Passendale, Belgium",France,German Empire,Belgium,British Empire,,,,,56,80,508800,348300,loss
+Eleventh Battle of the Isonzo,1917,Soca,Kingdom of Italy,German Empire,,,Austria-Hungary,,,,5200,2200,148000,105000,indecisive
+Battles of Ramadi,1917,"Ramadi, west of Baghdad",British Empire,Ottoman Empire,,,,,,1000,,,566,,loss
+Battle of Caporetto,1917,"Kobarid, Austria-Hungary",Austria-Hungary,Kingdom of Italy,German Empire,,,,350000,400000,2213,2200,70000,40000,win
+Third Battle of Gaza,1917,"Gaza, southern Palestine",British Empire,Ottoman Empire,Kingdom of Italy,France,German Empire,,45913,12500,,,2696,1300,win
+Battle of Beersheba,1917,"Beersheba, Ottoman Syria",British Empire,Ottoman Empire,Australia,New Zealand,German Empire,,47500,4400,15000,88,171,1947,win
+Battle of Mughar Ridge,1917,"Junction Station, Palestine",British Empire,Ottoman Empire,New Zealand,Australia,German Empire,,,,,,1188,10000,win
+Battle of Cambrai,1917,"Cambrai, France",British Empire,German Empire,United States,Newfoundland,,,160000,92000,3600,1536,36839,44207,indecisive
+Operation Michael,1918,Northern France,German Empire,British Empire,,,United States,France,,,72,49,239800,254816,win
+Battle of the Lys,1918,French–Belgian Flanders,German Empire,British Empire,,,Portugal,United States,,,35,,120000,120000,win
+Third Battle of the Aisne,1918,"Aisne River, France",German Empire,France,,,British Empire,United States,,,,,130000,127000,loss
+Battle of Cantigny,1918,Cantigny,France,German Empire,United States,,,,4000,,,,1603,250,win
+Battle of Belleau Wood,1918,"Belleau Wood near Marne River, France",France,German Empire,United States,British Empire,,,,,,,1811,1600,win
+Battle of Chateau-Thierry,1918,"Aisne, France",France,German Empire,United States,Belgium,,,,,,,,,
+Second Battle of the Piave River,1918,"Piave, Italy",Austria-Hungary,Kingdom of Italy,,,France,British Empire,,,58,57,111000,43000,loss
+Battle of Hamel,1918,"Somme, France",Australia,German Empire,United States,British Empire,,,7000,5600,,,1400,2000,win
+Battle of Abu Tellul,1918,Palestine,Australia,German Empire,United States,India,Ottoman Empire,,,,,,189,1000,win
+Second Battle of the Marne,1918,"Marne River, France",France,German Empire,United States,British Empire,,,,,,,132717,169160,win
+Battle of Soissons,1918,North-eastern France,German Empire,France,,,United States,,234000,345000,210,478,168000,107000,loss
+Attack on Orleans,1918,"United States, Atlantic Ocean",German Empire,United States,,,,,,,,,,,win
+Battle of Amiens,1918,"Picardy, France",British Empire,German Empire,United States,France,,,,,,,44000,75000,win
+Battle of Ambos Nogales,1918,Nogales,United States,Mexico,,,German Empire,,800,,,,34,300,win
+Battle of Mont Saint-Quentin,1918,"Mont Saint-Quentin, France",Australia,German Empire,,,,,,,,,,,win
+Battle of Havrincourt,1918,"Havrincourt, France",British Empire,German Empire,,,,,,,,,,,win
+Battle of Saint-Mihiel,1918,"Saint-Mihiel salient, France",France,German Empire,United States,,,,660000,500000,419,213,7000,22500,win
+Battle of Epehy,1918,"Epehy, France",France,German Empire,British Empire,,,,,,,,1260,11750,win
+Battle of Megiddo,1918,"Tel Megiddo, Ottoman Syria",British Empire,Ottoman Empire,France,Kingdom of Hejaz,German Empire,,69000,35000,540,402,5343,6000,win
+Meuse-Argonne Offensive,1918,"Argonne Forest, France",France,German Empire,United States,Siam,Austria-Hungary,,1200000,450000,,,192000,126000,win
+Battle of the Canal du Nord,1918,Canal du Nord,British Empire,German Empire,,,,,,,,,30000,36000,win
+Battle of St. Quentin Canal,1918,"Hindenburg Line, France",British Empire,German Empire,United States,,,,,,,,,,win
+Battle of Cambrai,1918,"Cambrai, France",British Empire,German Empire,,,,,,,,,12000,10000,win
+Battle of the Selle,1918,"Selle River, France",British Empire,German Empire,,,,,,,,,,,win
+Battle of Vittorio Veneto,1918,"Vittorio, Kingdom of Italy",Kingdom of Italy,Austria-Hungary,France,British Empire,,,,,7700,6145,37461,435000,win
+Battle of Sharqat,1918,North of Baghdad,British Empire,Ottoman Empire,India,,,,,,,,1800,26322,win
+Battle of the Sambre,1918,"River Sambre, France",British Empire,German Empire,New Zealand,France,,,,,37,,,,win
